@@ -1,2 +1,0 @@
-# tugaskoding
-Tugas Koding
